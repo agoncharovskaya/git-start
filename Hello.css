@@ -1,7 +1,6 @@
 p.hello {
-  background-color: yellow;
-  border: 2px solid skyblue;
   color: midnightblue;
-  font-size: 20px;
   margin: auto;
+  font-size: 20px;
+  border: 2px solid skyblue;
 }
